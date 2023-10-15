@@ -1,8 +1,12 @@
 {
+	"author": "Vivek",
 	"name": "fcc-learn-npm-package-json",
+	"keywords": [ "descriptive", "related", "words" ],
+	"description": "A project that does something awesome",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
+	"license": "MIT",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
